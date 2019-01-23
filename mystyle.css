@@ -1,0 +1,36 @@
+.header {
+    background-color: silver;
+}
+
+.theHeader {
+    margin: 1px;
+    text-align: center;
+    background-color: #9fcdff;
+    min-height: 70px;
+}
+
+.page-content{
+    background-color: #92b8f9
+}
+
+.thecol {
+    margin: 3px;
+    text-align: center;
+    background-color: #cfce6e;
+    min-height: 300px;
+}
+
+.insidecol {
+    margin: 3px;
+    text-align: center;
+    background-color: orange;
+    min-height: 100px;
+}
+
+.btn-pack {
+    margin: 10px;
+}
+
+.margin-set {
+    margin: 5px;
+}
